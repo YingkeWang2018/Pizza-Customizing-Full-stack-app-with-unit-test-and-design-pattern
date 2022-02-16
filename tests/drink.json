@@ -1,0 +1,26 @@
+{
+  "coke": {
+    "price": 1.99
+  },
+  "diet coke": {
+    "price": 1.99
+  },
+  "coke zero": {
+    "price": 1.99
+  },
+  "pepsi": {
+    "price": 1.99
+  },
+  "diet pepsi": {
+    "price": 1.99
+  },
+  "dr. pepper": {
+    "price": 1.99
+  },
+  "water": {
+    "price": 0.99
+  },
+  "juice": {
+    "price": 2.99
+  }
+}

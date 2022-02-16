@@ -1,0 +1,60 @@
+{
+  "CATEGORY_KEYWORDS": [
+    "pizza",
+    "drink",
+    "q"
+  ],
+  "PIZZA_COMPONENTS_KEYWORDS": [
+    "type",
+    "size",
+    "toppings",
+    "quantity",
+    "q"
+  ],
+  "DRINK_COMPONENTS_KEYWORDS": [
+    "name",
+    "quantity",
+    "q"
+  ],
+  "PIZZA_TYPE_KEYWORDS": [
+    "pepperoni",
+    "margherita",
+    "vegetarian",
+    "neapolitan",
+    "blank",
+    "q"
+  ],
+  "PIZZA_SIZE_KEYWORDS": [
+    "s",
+    "m",
+    "l",
+    "q"
+  ],
+  "PIZZA_TOPPING_KEYWORDS": [
+    "olives",
+    "tomatoes",
+    "mushrooms",
+    "jalapenos",
+    "chicken",
+    "beef",
+    "pepperoni",
+    "q"
+  ],
+  "DRINK_NAME_KEYWORDS": [
+    "coke",
+    "diet coke",
+    "coke zero",
+    "pepsi",
+    "diet pepsi",
+    "dr. pepper",
+    "water",
+    "juice",
+    "q"
+  ],
+  "MENU_CATEGORY_KEYWORDS": [
+    "pizza",
+    "drink",
+    "topping",
+    "q"
+  ]
+}

@@ -1,0 +1,73 @@
+Group: 45
+Sherry Wang
+Yingke Wang
+
+
+
+
+
+---------------------------
+Grade: 95
+---------------------------
+
+
+
+1- Pair Programming:  15 / 15
+---------------------------
+
+
+
+
+
+2- Program Design:  18 / 20
+---------------------------
+a) Design Patterns: 5
+
+
+
+b) Description of Rationale for Choosing Design Patterns: 5
+
+
+c) Code Coupling and Cohesion: 3
+Instances of design smells such as large classes exist that require refactoring.
+
+
+d) Function Design: 5
+
+
+
+
+
+
+3-  Functionality: 25  / 25
+---------------------------
+
+Almost all the expected functionalities are implemented.
+
+
+
+
+
+4-  Tests: 20 / 20
+--------------------------
+
+
+
+5-Code Craftsmanship: 8  / 10
+--------------------------
+
+Instances of code smell exist such as complictaed code and multiple if else statement exist that require refactoring.
+
+
+
+
+
+6- MD Explanation and Organization:  9 / 10
+--------------------------
+The MD file is almost well organzied and contains the required information.
+Info about testing and CLI is missing.
+
+
+
+
+

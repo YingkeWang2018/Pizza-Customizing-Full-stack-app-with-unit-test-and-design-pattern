@@ -1,0 +1,4 @@
+order_number,take_method,address,price,order_detail/category,order_detail/type,order_detail/size,order_detail/toppings,order_detail/quantity
+0,foodora,hdeiohwoe,46.92,pizza,pepperoni,s,"tomatoes,mushrooms",1
+0,foodora,hdeiohwoe,46.92,pizza,margherita,m,"jalapenos,chicken",2
+0,foodora,hdeiohwoe,46.92,drink,dr. pepper,,,1

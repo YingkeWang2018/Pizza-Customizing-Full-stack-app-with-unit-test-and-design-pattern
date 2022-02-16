@@ -1,0 +1,23 @@
+{
+  "olives": {
+    "price": 1.99
+  },
+  "tomatoes": {
+    "price": 1.99
+  },
+  "mushrooms": {
+    "price": 3.99
+  },
+  "jalapenos": {
+    "price": 0.99
+  },
+  "chicken": {
+    "price": 2.99
+  },
+  "beef": {
+    "price": 4.99
+  },
+  "pepperoni": {
+    "price": 1.99
+  }
+}
